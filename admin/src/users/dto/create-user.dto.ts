@@ -1,8 +1,6 @@
-import {ApiProperty} from "@nestjs/swagger";
-import {Column, DataType} from "sequelize-typescript";
+import {ApiProperty} from '@nestjs/swagger';
 
 export class CreateUserDto {
-
     @ApiProperty({example: 'user@mail.ru', description: 'Почта'})
     readonly email: string;
 
