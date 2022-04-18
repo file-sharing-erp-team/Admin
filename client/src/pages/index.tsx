@@ -1,9 +1,0 @@
-export { default as HomePage } from "./HomePage";
-export { default as LoginPage } from "./LoginPage";
-export { default as CoursesPage } from "./CoursesPage";
-export { default as SchedulePage } from "./SchedulePage";
-export { default as AboutPage } from "./AboutPage";
-export { default as Course } from "./Course";
-export { default as AuthMiddlewarePage } from "./AuthMiddlewarePage";
-export { default as CreateCoursePage } from "./CreateCoursePage";
-export { default as TaskPage } from "./TaskPage";
