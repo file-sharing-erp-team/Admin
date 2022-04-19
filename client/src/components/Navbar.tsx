@@ -8,7 +8,7 @@ const Navbar:React.FC = () => {
                 <ul className="right hide-on-med-and-down">
                     <li><a href="/">Пользователи</a></li>
                     <li><a href="/">Группы</a></li>
-                    <li><a href="/">Курсы</a></li>
+                    <li><a href="/">Выйти</a></li>
                 </ul>
             </div>
         </nav>
