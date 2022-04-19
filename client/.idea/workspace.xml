@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f4499ee-d6e0-45c3-88af-a84e2d175d47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AuthMiddlewarePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LoginPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/loaderReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/rootReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/userReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/config/IsLoggedIn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/config/config.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/config/paths.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/config/router.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/context/AuthContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/useAuth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/useHttp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/useTypeSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/service/AuthService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/service/http-common.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/types/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="280vRWmpNI08g4UFUHmgOQfd1lh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.tslint",
+    "ts.external.directory.path": "C:\\coding\\Admin\\client\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\coding\Admin\client\src\utils\config" />
+      <recent name="C:\coding\Admin\client\src\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f4499ee-d6e0-45c3-88af-a84e2d175d47" name="Changes" comment="" />
+      <created>1650366317950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650366317950</updated>
+      <workItem from="1650366323220" duration="17653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
