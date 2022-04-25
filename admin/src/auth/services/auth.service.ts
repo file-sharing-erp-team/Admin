@@ -49,5 +49,4 @@ export class AuthService {
     }
     throw new UnauthorizedException({message: 'Некорректный емайл или пароль'})
   }
-
 }
